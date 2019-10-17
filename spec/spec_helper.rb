@@ -1,5 +1,5 @@
 require "bundler/setup"
-require "esa"
+require "esiconfia"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure

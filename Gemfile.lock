@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    esa (0.1.0)
+    esa (1.0.0)
 
 GEM
   remote: https://rubygems.org/
